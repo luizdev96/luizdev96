@@ -1,6 +1,11 @@
 
 ### Olá Eu sou o Thiago Tomaz 🙋‍♂️
-##ola
+🔧 Desenvolvedor apaixonado por criar soluções inovadoras e impactantes.
+💻 Experiência em diversas linguagens de programação e frameworks, com foco em resultados eficientes.
+🚀 Sempre em busca de novos desafios e de aprimorar minhas habilidades técnicas.
+🌱 Acredita que o aprendizado contínuo é a chave para o sucesso no mundo da tecnologia.
+📈 Compartilhando projetos e contribuindo para o crescimento da comunidade open-source.
+🔗 Vamos juntos construir o futuro da tecnologia!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-tomaz-luiz/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/euthi96/)
