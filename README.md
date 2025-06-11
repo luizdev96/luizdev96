@@ -1,6 +1,7 @@
 
 ### Olá Eu sou o Thiago Tomaz 🙋‍♂️
-🔧 Desenvolvedor apaixonado por criar soluções inovadoras e impactantes
+📚 Com foco em Frontend e uma jornada a menos de 1 ano aprimorando habilidades em HTML CSS e JavaScript além de frameworks modernos como ReactJS, busco integrar a uma equipe de desenvolvimento onde posso aplicar minhas competências técnicas. Meu objetivo é criar interfaces intuitivas e experiências de usuário envolventes, alavancando boas práticas de design para desenvolver soluções eficientes acessíveis. Estou sempre buscando aprender, evoluir e contribuir para projetos que desafiam minhas capacidades.
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-tomaz-luiz/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/euthi96/)
