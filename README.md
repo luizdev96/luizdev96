@@ -10,7 +10,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizdev96&hide_progress=true)
 ### Tecnologias uso durante no meu dia a dia 👨‍💻
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![HTML](https://assets.dio.me/DplDBZzH69P-toLNfpMOmZ445LYp46q1dMYPry0bPco/f:webp/q:80/w:120/L3RyYWNrcy82MmVkMWYxZC04ZDc2LTRiYmMtOTA1Zi1lNzNkMjBjYjgyZjUucG5n)]()
+[![CSS](https://assets.dio.me/MXBEYinh1-9mB_xSoVS42kkg9UGMq6cM4IwkZEWdDT0/f:webp/q:80/w:120/L3RyYWNrcy9kYTA0M2M3YS03MTg5LTQ0MWUtYmYyOC1hZGMyZDA1YTQ5MzQucG5n)]()
+
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
